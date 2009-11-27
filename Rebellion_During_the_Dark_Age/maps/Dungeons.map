@@ -1,0 +1,10 @@
+border_size=1
+usage=map
+
+Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         
+Xos         , 2 Rr        , Rr          , Uu^Uf       , Xos         , Rr          , Xos         
+Xos         , Ww          , Rr          , Rr          , Rr          , Rr          , Xos         
+Xos         , Xos         , Xos         , Xos         , Rr          , Cud         , Xos         
+Xos         , Rr          , Rr          , Rr          , Rr          , 1 Kud       , Xos         
+Xos         , Rr          , Rr          , Rr          , Rr          , Rr          , Xos         
+Xos         , Xos         , Xos         , Rr          , Xos         , Xos         , Xos         
